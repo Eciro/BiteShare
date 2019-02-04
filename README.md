@@ -1,7 +1,5 @@
 # BiteShare
 
-An diet-tracking app for busy people. 
-
 This app was prototyped during StarterHacks 2019 at the University of Waterloo. It was made entirely inside Figma, a prototyping application used to an apps interface visually. It is an app that allowed users to track what they ate visually instead of numerically. It allows categorization of meals into the three main meals of a day which is then saved on a database where the user can access the photos at a later date. This allows the user to reflect upon the quality and quantity of their meals. We wanted to make this an app that encourages healthy eating habits so we added features such as:
 * Current and desired weight input
 * Goals tab to track progress towards desired weight
